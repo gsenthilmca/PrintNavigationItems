@@ -1,0 +1,7 @@
+C:\Users\sent1476\source\repos\ConsoleApp11\PrintWebSiteNavigationLinks\bin\Debug\PrintWebSiteNavigationLinks.exe.config
+C:\Users\sent1476\source\repos\ConsoleApp11\PrintWebSiteNavigationLinks\bin\Debug\PrintWebSiteNavigationLinks.exe
+C:\Users\sent1476\source\repos\ConsoleApp11\PrintWebSiteNavigationLinks\bin\Debug\PrintWebSiteNavigationLinks.pdb
+C:\Users\sent1476\source\repos\ConsoleApp11\PrintWebSiteNavigationLinks\obj\Debug\PrintWebSiteNavigationLinks.csprojAssemblyReference.cache
+C:\Users\sent1476\source\repos\ConsoleApp11\PrintWebSiteNavigationLinks\obj\Debug\PrintWebSiteNavigationLinks.csproj.CoreCompileInputs.cache
+C:\Users\sent1476\source\repos\ConsoleApp11\PrintWebSiteNavigationLinks\obj\Debug\PrintWebSiteNavigationLinks.exe
+C:\Users\sent1476\source\repos\ConsoleApp11\PrintWebSiteNavigationLinks\obj\Debug\PrintWebSiteNavigationLinks.pdb
